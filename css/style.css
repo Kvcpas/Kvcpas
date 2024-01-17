@@ -64,6 +64,7 @@ header h1{
 #omnie{
     height: 100vh;
     text-align: center;
+    width: 100%;
 }
 #omnie h1{
     padding: 5vh;

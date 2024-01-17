@@ -28,6 +28,7 @@ header{
     background-image: url(../img/background.jpg);    
     color: white;
     height: 100vh;
+    width: 100vw;
     text-align: center;
     background-position: center;
     background-size: cover;
@@ -44,6 +45,7 @@ header h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100vw;
 }
 #parallax2 {
     background-image: url(../img/computer3.jpg);
@@ -52,6 +54,7 @@ header h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100vw;
 }
 #parallax3 {
     background-image: url(../img/computer4.jpg);
@@ -60,11 +63,12 @@ header h1{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100vw;
 }
 #omnie{
     height: 100vh;
     text-align: center;
-    width: 100%;
+    width: 100vw;
 }
 #omnie h1{
     padding: 5vh;
@@ -89,6 +93,7 @@ header h1{
 #umiejetnosci{
     height: 100vh;
     text-align: center;
+    width: 100vw;
 }
 #umiejetnosci h1{
     padding: 5vh;
@@ -171,6 +176,7 @@ table p{
 #kontakt h1{
     padding: 5vh;
     font-size: 5rem;
+    width: 100vw;
 }
 #form{
     margin: auto;
